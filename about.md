@@ -4,6 +4,4 @@ title: About
 permalink: /about
 ---
 
-Hi, Write an awesome description about your blog here.  
-Feel free to make it a bit more interesting by adding a picture or two.  
-Only limit here is your creativity and imagination. Unleash them with full force.  
+Hi. This is a little blog simply so I can share all my favourite things. You'll find assorted maths, logic, linguistics, board game design, esolangs, and whatever else my mind cooks up. 
