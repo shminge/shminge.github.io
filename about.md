@@ -12,5 +12,4 @@ If you'd like to tell me anything feel free to reach out.
 - **Discord:** shminge
 
 
-{: .center}
-![image](https://education.github.com/assets/sdp-backpack-6f872c4211af1bac3aef0c6e2b5fbb7a.png "Github Developer Pack")
+
