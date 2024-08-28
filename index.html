@@ -4,7 +4,7 @@ layout: default
 
 <div class="posts">
   {% for post in paginator.posts %}
-  {% if post.tags contains 'draft' %}
+  {% if post.draft %}
   {% else %}
   <article class="post">
 
