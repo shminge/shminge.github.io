@@ -11,7 +11,9 @@ With $n$ pieces, there are ${n \choose 2}$ possible pairs. Your goal is to place
 
 **An example for $n=3$**:
 
-Place the pieces $A = (0,0)$,  $B = (0,1)$, and $C=(0,3)$. Then, $A \rarr B = 1$, $B \rarr C = 2$ and $B \rarr C = 3 = {3 \choose 2}$
+*Place the pieces $A = (0,0)$,  $B = (0,1)$, and $C=(0,3)$.*
+
+*Then, $A \rarr B = 1$, $B \rarr C = 2$ and $B \rarr C = 3 = {3 \choose 2}$*
 
 Is this possible for all $n$? Why or why not?
 
