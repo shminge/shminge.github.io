@@ -32,4 +32,5 @@ In both these cases, we obtain two roots, $r_{1}$ and $r_{2}$, but in both cases
 
 Therefore, unless $n$ or $n-2$ is square, no solution is possible.
 
-*Sadly, this says nothing about whether a solution is possible when the above conditions are met. If you have any ideas, let me know!*
+*Sadly, this says nothing about whether a solution is possible when the above conditions are met. If you have any ideas, let me know!
+I have found solutions for $n=2,3,4,6,9$ with the help of a python program. I've also got a little JS playground for exploring them manually, which showcases a 9-point solution by default. You can find that [here](https://openprocessing.org/sketch/2041538).*
